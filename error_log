@@ -1,0 +1,4 @@
+[03-May-2021 09:25:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdrcorpo/dani.ktbteam.my.id/kon.php on line 8
+[03-May-2021 09:32:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdrcorpo/dani.ktbteam.my.id/kon.php on line 8
+[03-May-2021 09:32:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdrcorpo/dani.ktbteam.my.id/kon.php on line 8
+[03-May-2021 09:32:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdrcorpo/dani.ktbteam.my.id/kon.php on line 8

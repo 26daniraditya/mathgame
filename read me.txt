@@ -1,0 +1,7 @@
+Nama : Muhammad Dani Raditya
+Kelas : B
+NIM : K3519054
+Link Deploy : dani.ktbteam.my.id
+Penjelasan : Game Ini menggunakan cookies untuk mengingat nama dan email, juga menggunakan session untuk menyimpan lives dan score,
+game ini mengenai tebak angka, disertai sistem nyawa dan score,, coba mainkan!! rasakan sensainya :D
+
